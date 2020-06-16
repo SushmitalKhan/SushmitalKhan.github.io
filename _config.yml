@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R. Stuart Geiger"
+title                    : "Sushmita L Khan"
 title_separator          : "-"
 name                     : &name "R. Stuart Geiger"
 description              : &description "computational ethnographer<br/>ethnographer of computation"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "R. Stuart Geiger"
-  avatar           : "oban3.jpg"
-  bio              : "Ethnographer of computation and computational ethnographer; research staff at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
+  name             : "Sushmita L Khan"
+  avatar           : "sk_profile.jpg"
+  bio              : "This is a new project froked from https://github.com/academicpages/academicpages.github.io and is currently under construction. None of the data in this website are currently mine (Sushmita Khan)"
   location         : "Berkeley, CA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
