@@ -9,14 +9,14 @@
 locale                   : "en-US"
 title                    : "Sushmita L Khan"
 title_separator          : "-"
-name                     : &name "R. Stuart Geiger"
-description              : &description "computational ethnographer<br/>ethnographer of computation"
-url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sushmita Khan"
+description              : &description "Eesearch in Social Computing, NLP and HCC"
+url                      : https://sushmitalkhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staeiou/staeiou.github.io"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : #160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -26,7 +26,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -49,14 +49,14 @@ read_more                : "enabled" # if enabled, adds a "read more" link to ex
 future                   : true
 
 # SEO Related
-google_site_verification : "3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg"
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : &twitter "sushmitalkhan"
 facebook:
   username               : 
   app_id                 :
@@ -70,9 +70,9 @@ social:
   links: # An array of links to social media profiles
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-79273-2"
+    tracking_id          : #"UA-79273-2"
 
 
 
@@ -81,7 +81,7 @@ author:
   name             : "Sushmita L Khan"
   avatar           : "sk_profile.jpg"
   bio              : "This is a new project froked from https://github.com/academicpages/academicpages.github.io and is currently under construction. None of the data in this website are currently mine (Sushmita Khan)"
-  location         : "Berkeley, CA"
+  location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
   email            :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "staeiou"
+  github           : "sushmitalkhan"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -109,7 +109,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "staeiou"
+  wikipedia        :
 
 
 # Reading Files
