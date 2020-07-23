@@ -10,3 +10,4 @@ Contact information is below, including email and various web services.  This i
 * Twitter: [sushmitalkhan](http://twitter.com/sushmitalkhan)
 * Google Scholar: [author:Sushmita-L-Khan](https://scholar.google.com/citations?user=QAn9xN8AAAAJ&hl=en)
 * LinkedIn: [sushmitakhan](https://www.linkedin.com/in/sushmitakhan/)
+<!-- * Medium: [sushmita_khan](https://medium.com/@sushmita_khan) -->

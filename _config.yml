@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sushmita L Khan"
 title_separator          : "-"
 name                     : &name "Sushmita Khan"
-description              : &description "Eesearch in Social Computing, NLP and HCC"
+description              : &description "Research in Social Computing, NLP and HCC"
 url                      : https://sushmitalkhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/sushmitakhan/"
+  linkedin         : "sushmitakhan"
   orcid            : 
   pinterest        :
   soundcloud       :
