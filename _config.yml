@@ -217,9 +217,9 @@ defaults:
       share: false
       comments: false
   # _articles
-  - scope:
-      path: ""
-      type: articles
+  # - scope:
+      # path: ""
+      # type: articles
     values:
       layout: single
       author_profile: true
