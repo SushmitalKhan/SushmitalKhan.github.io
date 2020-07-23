@@ -178,12 +178,12 @@ collections:
   articles:
     output: true
     permalink: /:collection/:path/
-  expressions:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # expressions:
+    # output: true
+    # permalink: /:collection/:path/
+  # talks:
+    # output: true
+    # permalink: /:collection/:path/
 
 
 # Defaults
