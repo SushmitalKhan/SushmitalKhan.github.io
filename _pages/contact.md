@@ -1,9 +1,14 @@
 ---
-permalink: /contact/
-title: "Contact"
-excerpt: "Contact me"
+layout: archive
+title: "Contact Archive"
+permalink: /contact-archive/
 author_profile: false
 ---
+
+{% include base_path %}
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <!-- {% include base_path %}
 {% for post in site.pages %}
