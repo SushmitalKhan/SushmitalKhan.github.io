@@ -1,17 +1,12 @@
-
+---
 layout: archive
-title: "Articles"
-permalink: /articles/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
-
-<!-- redirect_from: 
-  - /wordpress/academic-papers/ -->
-
-You can find my paper on <u><a href="https://scholar.google.com/citations?user=QAn9xN8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
-
+---
 
 {% include base_path %}
 
-{% for post in site.articles reversed %}
+{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
