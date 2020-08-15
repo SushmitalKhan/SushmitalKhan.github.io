@@ -2,7 +2,6 @@ permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
 author_profile: true
-author_profile: false
 ---
 
 {% include base_path %}
