@@ -1,9 +1,13 @@
----
+<!-- ---
 layout: archive
 title: "Contact"
-permalink: /contact/
+permalink: /contact-archive/
 author_profile: true
----
+--- -->
+
+permalink: /contact/
+title: "Contact"
+excerpt: "Contact me"
 
 {% include base_path %}
 {% for post in site.pages %}
