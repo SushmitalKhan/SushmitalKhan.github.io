@@ -2,7 +2,13 @@
 permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
-author_profile: true
+author_profile: false
+---
+
+{% include base_path %}
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
 ---
 Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things like "stuart geiger email" and get wrong pages on my site.  Here are some other places on the Internet where I reside.
 
