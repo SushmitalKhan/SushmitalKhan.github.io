@@ -15,6 +15,7 @@ I write about things that bother me and things that interest me. <u><a href="htt
 
 * E-mail: sushmik [at] clemson.edu
 * Twitter: [Sushmita Khan](http://twitter.com/sushmitalkhan)
+* Medium: [Sushmita Khan](https://medium.com/@sushmita_khan)
 * Google Scholar: [Sushmita-L-Khan](https://scholar.google.com/citations?user=QAn9xN8AAAAJ&hl=en)
 * LinkedIn: [Sushmita Khan](https://www.linkedin.com/in/sushmitakhan/)
 <!-- * Medium: [sushmita_khan](https://medium.com/@sushmita_khan) -->
