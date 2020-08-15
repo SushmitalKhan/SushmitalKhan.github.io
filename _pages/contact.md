@@ -8,6 +8,7 @@ author_profile: true
 permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
+author_profile: true
 
 {% include base_path %}
 {% for post in site.pages %}
