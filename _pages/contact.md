@@ -10,10 +10,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-{% include base_path %}
+<!-- {% include base_path %}
 {% for post in site.pages %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 ---
 
 * E-mail: sushmik [at] clemson.edu
