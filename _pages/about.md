@@ -10,7 +10,8 @@ redirect_from:
 
 {% include base_path %}
 Hi! I am Sushmita, incoming HCC PhD student at Clemson University
-I write about things that bother me and things that interest me. Check out my opinion posts! <u><a href="https://medium.com/@sushmita_khan">my Google Scholar profile</a>.</u>
+\n
+I write about things that bother me and things that interest me. <u><a href="https://medium.com/@sushmita_khan">Opinions and more </a>Check out my blog posts! </u>
 
 * E-mail: sushmik [at] clemson.edu
 * Twitter: [Sushmita Khan](http://twitter.com/sushmitalkhan)
