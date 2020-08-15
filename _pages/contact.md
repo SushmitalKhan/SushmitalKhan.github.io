@@ -2,7 +2,7 @@
 layout: archive
 title: "Contact Archive"
 permalink: /contact-archive/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
@@ -15,7 +15,6 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 ---
-Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things like "stuart geiger email" and get wrong pages on my site.  Here are some other places on the Internet where I reside.
 
 * E-mail: sushmik [at] clemson.edu
 * Twitter: [sushmitalkhan](http://twitter.com/sushmitalkhan)
