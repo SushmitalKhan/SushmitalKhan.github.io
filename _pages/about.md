@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-Hi! I am Sushmita, incoming HCC PhD student at Clemson University.
+Hi! I am Sushmita, first year HCC PhD student at Clemson University.
+
+I am working at the intersection of HCI, NLP and Social Computing.
 
 You can find my articles on <u><a href="https://scholar.google.com/citations?user=QAn9xN8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
