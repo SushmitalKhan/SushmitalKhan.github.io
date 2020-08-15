@@ -220,20 +220,20 @@ defaults:
   # - scope:
       # path: ""
       # type: articles
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+    # values:
+      # layout: single
+      # author_profile: true
+      # share: true
+      # comments: true
   # _expressions
   # - scope:
       # path: ""
       # type: expressions
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+    # values:
+      # layout: single
+      # author_profile: true
+      # share: true
+      # comment: true
   # _talks
   # - scope:
       # path: ""
