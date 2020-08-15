@@ -15,4 +15,4 @@ You can find my articles on <u><a href="https://scholar.google.com/citations?use
 
 I write about things that bother me and things that interest me. <u><a href="https://medium.com/@sushmita_khan">Check out my blog posts! </a></u>
 
-* E-mail: sushmik [at] clemson.edu
+E-mail: sushmik [at] clemson.edu
