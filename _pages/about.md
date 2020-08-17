@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-Hi! I am Sushmita, first year HCC PhD student at Clemson University. I study human behavior in online communities with the overarching goal of making the internet a just, inclusive and safe environment.
+Hi! I am Sushmita, first year HCC PhD student at Clemson University. 
+
+<h1>Research<\h1>
+I study human behavior in online communities with the overarching goal of making the internet a just, inclusive and safe environment.
 
 You can find my articles on <u><a href="https://scholar.google.com/citations?user=QAn9xN8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
