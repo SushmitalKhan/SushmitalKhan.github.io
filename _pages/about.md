@@ -1,6 +1,6 @@
 ---
 permalink: /
-<!-- title: "Hi! I am Sushmita" -->
+title: "..."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
