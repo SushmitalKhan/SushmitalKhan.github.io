@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+<!-- title: "Bio" -->
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,14 +9,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-Hi! I am Sushmita, first year HCC PhD student at Clemson University. I have a Master's in Mathematics from Georgia Southern University and undergrad in CSE from Brac University.
+<h1>Hi! I am Sushmita</h1>
+I am a first year HCC PhD student at Clemson University. 
+
+I study human behavior in online communities with the overarching goal of making the internet a just, inclusive and safe environment. To that end I work with identifying hateful behavior and studying online users' wellbeing to design online environment that foster kindness and encourages just and inclusive behavior towards users from heterogeneous backgrounds.
+
+I have a Master's in Mathematics from Georgia Southern University and undergrad in CSE from Brac University.
 
 <h1>Research</h1>
-I study human behavior in online communities with the overarching goal of making the internet a just, inclusive and safe environment. To that end I work with identifying hateful behavior and studying online users' wellbeing to design online environment that foster kindness and encourages just and inclusive behavior towards users from heterogeneous backgrounds. 
+ 
 
 Broadly speaking, my research interests are in Social Computing and Human-centered AI. 
-
-I have a clear idea of the hat but I am working on finding and finalizing the finer details.
 
 You can find my articles on <u><a href="https://scholar.google.com/citations?user=QAn9xN8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
