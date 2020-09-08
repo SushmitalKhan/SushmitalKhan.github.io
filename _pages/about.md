@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am a first year PhD student in the Human-Centered Computing program at Clemson University. I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html">Dr. Bart Knijnenburg</a>.</u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr. Nina  Hubig</a>.
-
+I am a first year PhD student in the Human-Centered Computing program at Clemson University. I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html">Dr. Bart Knijnenburg</a></u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr. Nina  Hubig</a>. 
 <h1>Research</h1>
 I study human behavior in online communities with the overarching goal of making the internet a just, inclusive and safe environment. To that end I work with identifying hateful behavior and studying online users' wellbeing to design online environment that foster kindness and encourages just and inclusive behavior towards users from heterogeneous backgrounds. 
 
