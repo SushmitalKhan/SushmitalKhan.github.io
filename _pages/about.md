@@ -30,5 +30,5 @@ redirect_from:
     </div>
 </div>
 
-
-<embed src="http://sushmitalkhan.gitbub.io/khan_cv.pdf" width="500" height="375" />
+<iframe src="/D:/git projects/SushmitalKhan.github.io/_pages/khan_cv.pdf" width="100%" height="500px">
+</iframe>
