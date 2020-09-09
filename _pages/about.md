@@ -23,6 +23,8 @@ redirect_from:
 		        
 		<p>I like to cook, solve puzzles, and go on hikes. I am a very climate conscious person and I try to do my part to 
 		keep our environment healthy and clean. </p>
+		<p> You will often find me make a lot of Harry Potter references, and watching reruns of Grey's Anatomy seasons 1 - 7. </P>
+		<p> I will dabble into painting every now and again. I mostly make abstract paintings but recently I started enjoying modern art a lot! </p>
         <p> You can email me at sushmik [at] clemson [dot] edu to talk about research, food, or life in general! </p>
     </div>
 </div>
