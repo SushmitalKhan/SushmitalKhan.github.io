@@ -30,5 +30,3 @@ redirect_from:
     </div>
 </div>
 
-<object data= You can download my <object data=”/pdf/khan_cv.pdf" type=”CV/pdf” width=”100%” height=”100%”>
-</object>
