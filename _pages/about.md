@@ -30,3 +30,5 @@ redirect_from:
     </div>
 </div>
 
+
+<embed src="http://sushmitalkhan.gitbub.io/khan_cv.pdf" width="500" height="375" />
