@@ -14,7 +14,7 @@ redirect_from:
 
 <div class="container">
     <div class="col-sm-12 col-md-6 col-lg-9 pt-4">
-        <p>I am a first year PhD student in the Human-Centered Computing program at Clemson University. I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html">Dr. Bart Knijnenburg</a></u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr.Nina Hubig</a>.
+        <p>I am a first year PhD student in the Human-Centered Computing program at Clemson University. I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html">Dr. Bart Knijnenburg</a></u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr.Nina Hubig</a></u>.
         </p>
         <p>
         I study human behavior in online communities with the overarching goal of making the internet a just, inclusive and safe environment. Specificially my work focuses on online toxicity, social equity, psychological impacts of cyber bullying and harassment, and mental health accessibility particularly in South Asia(and South Asian communities)
