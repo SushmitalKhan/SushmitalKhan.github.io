@@ -30,5 +30,5 @@ redirect_from:
     </div>
 </div>
 
-<iframe src="/D:/git projects/SushmitalKhan.github.io/_pages/khan_cv.pdf" width="100%" height="500px">
+<iframe src="khan_cv.pdf" width="100%" height="500px">
 </iframe>
