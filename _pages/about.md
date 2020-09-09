@@ -30,5 +30,3 @@ redirect_from:
     </div>
 </div>
 
-<iframe src="khan_cv.pdf" width="100%" height="500px">
-</iframe>
