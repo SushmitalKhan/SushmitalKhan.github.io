@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 I am a first year PhD student in the Human-Centered Computing program at Clemson University. I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html">Dr. Bart Knijnenburg</a></u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr.Nina Hubig</a>. 
 
-I study human behavior in online communities with the overarching goal of making the internet a just, inclusive and safe environment. To that end I work on developing methods for mining and identifying various behavioral aspects at the <u><a href = "https://sites.google.com/view/dzrpt-lab/projects?authuser=0">DZRPT Lab</a></u> and studying online users' wellbeing to design online environment that foster kindness and encourages just and inclusive behavior towards users from heterogeneous backgrounds at the <u><a href = "http://www.hatlab.org/">HATLab</a></u>
+I study human behavior in online communities with the overarching goal of making the internet a just, inclusive and safe environment. To that end I work on developing methods for mining and identifying various behavioral aspects at the <u><a href = "https://sites.google.com/view/dzrpt-lab/projects?authuser=0">DZRPT Lab</a></u> and studying online users' wellbeing at the <u><a href = "http://www.hatlab.org/">HATLab</a></u>
 
 Broadly speaking, my research interests are in Social Computing and Human-centered AI. 
 
