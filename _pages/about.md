@@ -29,4 +29,4 @@ redirect_from:
     </div>
 </div>
 
-You can download my CV<a href="files/khan_cv.pdf" download="khan_cv.pdf">here</a>
+You can download my CV<a href="D:/git projects/SushmitalKhan.github.io/_pages/khan_cv.pdf" download="khan_cv.pdf"> here</a>
