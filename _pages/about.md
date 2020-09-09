@@ -25,8 +25,8 @@ redirect_from:
         
 		<p>Beyond research, I like to cook, solve puzzles and go on hikes. I am a very climate conscious person and I try to do my part to 
 		keep our environment safe and clean. </p>
-        <p> You can email me at sushmik [at] clemson.edu to talk about research, life and more!  
-		</p>
+        <p> You can email me at sushmik [at] clemson.edu to talk about research, life and more! </p>
     </div>
 </div>
 
+<a href="files/khan_cv.pdf" download="khan_cv.pdf">download this</a>
