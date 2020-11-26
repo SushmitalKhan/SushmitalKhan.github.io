@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="container">
     <div class="col-sm-12 col-md-6 col-lg-9 pt-4">
-        <p>Fall 2020 : Introduction to Programming Lab</p>
-        <p>I teach classes 2</p>
+        <p>Fall 2020 : CPSC1111, Introduction to Programming Lab</p>
+        <p></p>
     </div>
 </div>
