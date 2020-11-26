@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="container">
     <div class="col-sm-12 col-md-6 col-lg-9 pt-4">
-        <p>Blog: [Posts](https://sushmita-khan.medium.com/)</p>
+        <p> <u><a href = "https://sushmita-khan.medium.com/">Check out my posts!</a></u></p>
         <p></p>
     </div>
 </div>
