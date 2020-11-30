@@ -14,9 +14,9 @@ redirect_from:
 
 <div class="container">
     <div class="col-sm-12 col-md-6 col-lg-9 pt-4">
-    ul.a {
+    <!-- ul.a {
     list-style-type: circle;
-    }
+    } -->
         <p>I am a first year PhD student in the Human-Centered Computing program at Clemson University. I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html">Dr. Bart Knijnenburg</a></u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr.Nina Hubig</a></u>.
         </p>
         <p>
@@ -24,7 +24,7 @@ redirect_from:
         
         To achieve my goal, I research several behavorial aspects of technology mediated online social behavior: 
         <ul class="a">
-        <li>Online users privacy knowledge and understanding</li>
+        <li>Online users privacy knowledge and practice</li>
         <li>Motivators of toxic engagement and psychological impacts of cyber bullying and harassment</li>
         <li>Emotions in communications, in particular empathetic communication</li>
         </ul>
