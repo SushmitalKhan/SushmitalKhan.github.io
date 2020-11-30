@@ -27,5 +27,3 @@ redirect_from:
         <p> You can email me at sushmik [at] clemson [dot] edu to talk about research, food, or life in general! </p>
     </div>
 </div>
-
-You can download my CV<a href="https://github.com/SushmitalKhan/SushmitalKhan.github.io/tree/master/_articles/Sushmita_Khan__CV.pdf" download="Sushmita_Khan__CV.pdf"> here</a>
