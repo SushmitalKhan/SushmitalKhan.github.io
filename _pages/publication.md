@@ -12,7 +12,7 @@ You can also find my papers on my <u><a href = "https://scholar.google.com/citat
 
 <div class="container">
     <div class="col-sm-12 col-md-6 col-lg-9 pt-4">
-    <h2> Conference Papers
+    <h2> Conference Papers </h2>
     <p>
     Iqbal, M., Khan S.,(2018): Mining Facebook Page for Bi-Partisan Analysis(Student Paper), Southern Association of Information Systems, Atlanta, GA </p>
     <p>
@@ -23,7 +23,7 @@ You can also find my papers on my <u><a href = "https://scholar.google.com/citat
     </p>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-9 pt-4">
-    <h2> Extended Abstract
+    <h2> Extended Abstract </h2>
     Kaleta, J., Aasheim, C., Khan S.,(2018):, Factors Influencing the Helpfulness of Online Product Reviews: An Empirical Analysis(Extended abstract), Southeastern Chapter of INFORMS, Myrtle Beach, SC
     </div>
 </div>
