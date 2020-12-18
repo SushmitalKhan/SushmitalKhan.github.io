@@ -23,7 +23,7 @@ redirect_from:
         <li>Ease of mental healthcare access particularly in communities with a strong stigma against mental health</li>
         </ul> 
         I am a first year PhD student in the <u><a href = "https://www.clemson.edu/cecas/departments/computing/academics/graduates/programsofstudy/phdinhcc.html"></a></u> Human-Centered Computing program at Clemson University.  I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html"> Dr. Bart Knijnenburg</a></u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr.Nina Hubig</a></u> at the <u><a href = "http://www.hatlab.org/">HATLab</a></u> and the <u><a href = "https://sites.google.com/view/dzrpt-lab/projects?authuser=0">DZRPT Lab</a></u>.
-        </p>
+        </p>. Before coming to Clemson, I got my Master's in Mathematics in Summer 2020 from Georgia Southern University in Statesboro, GA and Bachelors in Computer Science and Engineering in Fall 2013 from Brac University in Dhaka, Bangladesh.
 
           
 		<!-- <p>I like to cook, solve puzzles, and go on hikes. You will often find me making a lot of Harry Potter references, and watching reruns of Grey's Anatomy seasons 1 - 7. I am a very climate conscious person and I try to do my part to keep our environment healthy and clean. I will dabble into painting every now and again; I mostly make abstract paintings but recently I got into modern art and am enjoying it a lot!</p> -->
