@@ -18,7 +18,7 @@ redirect_from:
     list-style-type: circle;
     } -->
         <p>I am a HCI+Social Computing researcher studying technology mediated online social behavior, and emotional wellbeing+mental healthcare accessibility. 
-        I am a first year PhD student in the <u><a href = "https://www.clemson.edu/cecas/departments/computing/academics/graduates/programsofstudy/phdinhcc.html"> Human-Centered Computing program at Clemson University.  I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html"> Dr. Bart Knijnenburg</a></u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr.Nina Hubig</a></u> at the <u><a href = "http://www.hatlab.org/">HATLab</a></u> and the <u><a href = "https://sites.google.com/view/dzrpt-lab/projects?authuser=0">DZRPT Lab</a></u>.
+        I am a first year PhD student in the <u><a href = "https://www.clemson.edu/cecas/departments/computing/academics/graduates/programsofstudy/phdinhcc.html"></a></u> Human-Centered Computing program at Clemson University.  I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html"> Dr. Bart Knijnenburg</a></u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr.Nina Hubig</a></u> at the <u><a href = "http://www.hatlab.org/">HATLab</a></u> and the <u><a href = "https://sites.google.com/view/dzrpt-lab/projects?authuser=0">DZRPT Lab</a></u>.
         </p>
 
           
