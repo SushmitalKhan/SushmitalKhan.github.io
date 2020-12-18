@@ -18,7 +18,7 @@ redirect_from:
     list-style-type: circle;
     } -->
         <p>I am a HCI+Social Computing researcher studying technology mediated online social behavior and emotional wellbeing in the online space + mental healthcare accessibility particularly in South Asia (and South Asian communities). I have two main goals based off of my research interest:
-        ul class="a">
+        <ul class="a">
         <li>Contribute towards making the online social environment a safe, just, and an inclusive space</li>
         <li>Ease of mental healthcare access particularly in communities with a strong stigma against mental health</li>
         </ul> 
