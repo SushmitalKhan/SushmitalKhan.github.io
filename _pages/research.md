@@ -9,7 +9,9 @@ redirect_from:
 {% include base_path %}
 <div class="container">
     <div class="col-sm-12 col-md-6 col-lg-9 pt-4">
-<p>       
+    
+<p>  
+        <h2>Research</h2>     
         I study technology mediated online social behavior with the overarching goal of making the internet a just, inclusive, and safe environment. 
         
         To achieve my goal, I research several behavorial aspects including: 
@@ -23,7 +25,7 @@ redirect_from:
 		<p>
 
 
-    <h1>Current Projects</h1>
+    <h2>Current Projects</h2>
     <h3> Privacy behavior in adolescents</h3>
     <h3> Modeling empathy in virtual agents for online counseling and psychological services</h3>
     <h1>Previous Projecs</h1>
