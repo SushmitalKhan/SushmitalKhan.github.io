@@ -18,9 +18,10 @@ redirect_from:
     list-style-type: circle;
     } -->
         <p>
-        I am a HCI+Social Computing researcher studying technology mediated online social behavior and emotional wellbeing in the online space + mental healthcare accessibility particularly in South Asia (and South Asian communities). 
+        I am a HCI+Social Computing researcher working privacy behavior in online communities, recommender systems, and mental health. 
 
-        I am a first year PhD student in the <u><a href = "https://www.clemson.edu/cecas/departments/computing/academics/graduates/programsofstudy/phdinhcc.html"></a></u> Human-Centered Computing program at Clemson University.  I am advised by <u><a href = "https://www.usabart.nl/portfolio/#home.html"> Dr. Bart Knijnenburg</a></u> and <u><a href = "https://sites.google.com/view/dzrpt-lab/about?authuser=0">Dr.Nina Hubig</a></u> at the <u><a href = "http://www.hatlab.org/">HATLab</a></u> and the <u><a href = "https://sites.google.com/view/dzrpt-lab/projects?authuser=0">DZRPT Lab</a></u>.         
+        I just finished my first year of PhD at the <u><a href = "https://www.clemson.edu/cecas/departments/computing/academics/graduates/programsofstudy/phdinhcc.html"></a></u> Human-Centered Computing program in Clemson University. I member of <u><a href = "http://www.hatlab.org/">HATLab</a></u> and <u><a href = "https://www.usabart.nl/portfolio/#home.html"> Dr. Bart Knijnenburg</a></u> is my advisor
+		         
         
         Before coming to Clemson, I got my Master's in Mathematics and Information Technolofy from Georgia Southern University (Summer 2020) in Statesboro, GA and my Bachelors in Computer Science and Engineering  from Brac University (Fall 2013) in Dhaka, Bangladesh. 
         </p>
