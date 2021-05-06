@@ -12,7 +12,7 @@ redirect_from:
     
 <p>  
         <h2>Research</h2>     
-        I study technology mediated online social behavior with the overarching goal of making the internet a just, inclusive, and safe environment. 
+        Thnline social behavior with the overarching goal of making the internet a just, inclusive, and safe environment. 
         
         To achieve my goal, I research several behavorial aspects including: 
         <ul class="a">
