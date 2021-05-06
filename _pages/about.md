@@ -23,13 +23,13 @@ redirect_from:
 		
 		<p>
 			   
-			   I am a HCI+Social Computing researcher working with privacy behavior in online communities, recommender systems, and mental health. The main goals leading my researches are:
+		I am a HCI+Social Computing researcher working with privacy behavior in online communities, recommender systems, and mental health. The main goals leading my researches are:
 				
-				<ul class="a">
-					<li>Contribute towards making the online social environment a safe, and an inclusive space</li>
-					<li>Help online users be in control of and understand their profiles better</li>
-					<li>Easy access to mental healthcare particularly in communities with a strong stigma against mental health</li>
-				</ul>
+			<ul class="a">
+				<li>Contribute towards making the online social environment a safe, and an inclusive space</li>
+				<li>Help online users be in control of and understand their profiles better</li>
+				<li>Easy access to mental healthcare particularly in communities with a strong stigma against mental health</li>
+			</ul>
 				
 		         
         </p>
@@ -49,23 +49,5 @@ redirect_from:
           
 		<!-- <p>I like to cook, solve puzzles, and go on hikes. You will often find me making a lot of Harry Potter references, and watching reruns of Grey's Anatomy seasons 1 - 7. I am a very climate conscious person and I try to do my part to keep our environment healthy and clean. I will dabble into painting every now and again; I mostly make abstract paintings but recently I got into modern art and am enjoying it a lot!</p> -->
 
-    </div>
-</div>
-
----
-<!-- permalink: /teaching/
-title: "Courses Taught"
-excerpt: "About me"
-author_profile: true
-redirect_from: --> 
----
-
-{% include base_path %}
-
-<div class="container">
-    <div class="col-sm-12 col-md-6 col-lg-9 pt-4">
-        <p>Fall 2020, Spring 2021 : <u><a href = "http://andrewd.ces.clemson.edu/courses/cpsc111/fall20/CPSC1111">Introduction to Programming Lab</a></u>
-		</p>
-        <p></p>
     </div>
 </div>
