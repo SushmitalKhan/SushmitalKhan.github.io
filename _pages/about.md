@@ -50,11 +50,11 @@ redirect_from:
 </div>
 
 ---
-permalink: /teaching/
+<!-- permalink: /teaching/
 title: "Courses Taught"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from: --> 
 ---
 
 {% include base_path %}
