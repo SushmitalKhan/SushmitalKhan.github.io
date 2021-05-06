@@ -20,7 +20,8 @@ redirect_from:
         <p>
                I am a 2nd year of PhD at the <u><a href = "https://www.clemson.edu/cecas/departments/computing/academics/graduates/programsofstudy/phdinhcc.html"></a></u> Human-Centered Computing program in Clemson University. I member of <u><a href = "http://www.hatlab.org/">HATLab</a></u> and <u><a href = "https://www.usabart.nl/portfolio/#home.html"> Dr. Bart Knijnenburg</a></u> is my advisor.
 			   
-			    I am a HCI+Social Computing researcher working privacy behavior in online communities, recommender systems, and mental health. My main goal leading my researches are to:
+			   
+			   I am a HCI+Social Computing researcher working privacy behavior in online communities, recommender systems, and mental health. My main goal leading my researches are to:
 				
 				<ul class="a">
 					<li>Contribute towards making the online social environment a safe, and an inclusive space</li>
