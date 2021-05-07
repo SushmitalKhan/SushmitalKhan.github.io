@@ -18,7 +18,7 @@ redirect_from:
     list-style-type: circle;
     } -->
         <p>
-               I am a 2nd year of PhD at the <u><a href = "https://www.clemson.edu/cecas/departments/computing/academics/graduates/programsofstudy/phdinhcc.html"></a></u> Human-Centered Computing program in Clemson University. I member of <u><a href = "http://www.hatlab.org/">HATLab</a></u> and <u><a href = "https://www.usabart.nl/portfolio/#home.html"> Dr. Bart Knijnenburg</a></u> is my advisor.
+               I am a 2nd year <u><a href = "https://www.clemson.edu/cecas/departments/computing/academics/graduates/programsofstudy/phdinhcc.html"></a></u> Human-Centered Computing PhD student at Clemson University. I member of <u><a href = "http://www.hatlab.org/">HATLab</a></u> and <u><a href = "https://www.usabart.nl/portfolio/#home.html"> Dr. Bart Knijnenburg</a></u> is my advisor.
 		</p>
 		
 		<p>
