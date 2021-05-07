@@ -13,12 +13,15 @@ redirect_from:
 	<div class="col-sm-12 col-md-6 col-lg-9 pt-4">  
 		
 		<p>
-		<h3>AI-Cybersecurity: Mathematically-grounded metaphors to teach AI-related cybersecurity</h3>
+		<h3>Mathematically-grounded metaphors to teach AI-related cybersecurity</h3>
 		
-		The goal of this project is to investigate middle school student's AI-related cybersecurity knowledge relative to their mathematics knowledge and behavior. To investigate their knowledge, we administered an initial survey, and selected 33 participants for semi-structured interviews. We are using the data from interview to develop a Math based learning module for AI and cybersecurity.
+		The goal of this project is to investigate middle school student's AI-related cybersecurity knowledge relative to their mathematics knowledge and behavior. To investigate their knowledge, we administered an initial survey, and selected 33 participants for semi-structured interviews. We are using the data from interview to develop a Math based learning module for AI and cybersecurity. To optimize the impact of this project, we will implement the odule in a rural-identifying middle in SC that serves underrepresented students.
 		<br /> 
 		<br /> 
 		SIGCSE Birds of Feather <u><a href = "https://www.youtube.com/watch?v=X920K-2q2LA" style="color:purple;">presentation</a></u>
+		<br />
+		<br />
+		News/Media article of our <u><a href = "https://news.clemson.edu/clemson-researchers-partner-with-rural-district-to-teach-students-about-cybersecurity-artificial-intelligence-using-metaphors-math/" style="color:purple"> project</a></u>
 		</p>
            
 	</div>
@@ -27,7 +30,7 @@ redirect_from:
 		
 		<p>
 		<h3>Recommender System for Self Actualization</h3>
-		
+		Recommender systems for self actualization will help users develop, explore, and understand their preferences based on their online profiles by helping them escape the "Filter bubble".
 		</p>
            
 	</div>
