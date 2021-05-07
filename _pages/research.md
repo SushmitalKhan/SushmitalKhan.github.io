@@ -21,7 +21,7 @@ redirect_from:
 		
 		
 		<p>
-		SIGCSE Birds of Feather <u><a href = "https://www.youtube.com/watch?v=X920K-2q2LA" style="color:red;">presentation</a></u>
+		SIGCSE Birds of Feather <u><a href = "https://www.youtube.com/watch?v=X920K-2q2LA" style="color:purple;">presentation</a></u>
 		</p>
 		</p>
      
