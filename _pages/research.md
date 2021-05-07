@@ -8,11 +8,9 @@ redirect_from:
 
 {% include base_path %}
 <div class="container">
-    <div class="col-sm-12 col-md-6 col-lg-9 pt-4">
-    
-		<p>  
-		
-        I research Privacy Behavior in online communities, Recommender Systems for Self Actualization, and Mental Health.  
+
+	<p>  I research Privacy Behavior in online communities, Recommender Systems for Self Actualization, and Mental Health. </p>
+	<div class="col-sm-12 col-md-6 col-lg-9 pt-4">  
 		
 		<p>
 		<h3>AI-Cybersecurity: Mathematically-grounded metaphors to teach AI-related cybersecurity</h3>
@@ -22,8 +20,17 @@ redirect_from:
 		<br /> 
 		SIGCSE Birds of Feather <u><a href = "https://www.youtube.com/watch?v=X920K-2q2LA" style="color:purple;">presentation</a></u>
 		</p>
-     
+           
+	</div>
+	
+	<div class="col-sm-12 col-md-6 col-lg-9 pt-4">  
+		
+		<p>
+		<h3>Recommender System for Self Actualization</h3>
+		
 		</p>
-        
-    </div>
+           
+	</div>
+
+	
 </div>
