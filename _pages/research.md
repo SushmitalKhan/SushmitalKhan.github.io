@@ -18,8 +18,8 @@ redirect_from:
 		The goal of this project is to investigate middle school student's AI-related cybersecurity knowledge relative to their mathematics knowledge and behavior. To investigate their knowledge, we administered an initial survey, and selected 33 participants for semi-structured interviews. We are using the data from interview to develop a Math based learning module for AI and cybersecurity. To optimize the impact of this project, we will implement the module in a rural-identifying middle in SC that serves underrepresented students.
 		<br /> 
 		<br /> 
-		SIGCSE Birds of Feather <u><a href = "https://www.youtube.com/watch?v=X920K-2q2LA" style="color:purple;">presentation</a></u>
-		News/Media article of our <u><a href = "https://news.clemson.edu/clemson-researchers-partner-with-rural-district-to-teach-students-about-cybersecurity-artificial-intelligence-using-metaphors-math/" style="color:purple"> project</a></u>
+		SIGCSE Birds of Feather <u><a href = "https://www.youtube.com/watch?v=X920K-2q2LA" style="color:purple;">presentation</a></u>; 
+		News/Media <u><a href = "https://news.clemson.edu/clemson-researchers-partner-with-rural-district-to-teach-students-about-cybersecurity-artificial-intelligence-using-metaphors-math/" style="color:purple"> article </a></u>
 		</p>
            
 	</div>
