@@ -29,7 +29,8 @@ redirect_from:
 		<p>
 		<h3>Recommender System for Self Actualization</h3>
 		Recommender systems for self actualization will help users develop, explore, and understand their preferences based on their online profiles by helping them escape the "Filter bubble".
-		News/Media <u><a href = "https://news.clemson.edu/inspired-by-netflix-researchers-want-to-help-people-find-their-true-calling/"> article </a></u>
+		<br />
+		News/Media <u><a href = "https://news.clemson.edu/inspired-by-netflix-researchers-want-to-help-people-find-their-true-calling/" style="color:orange"> article </a></u>
 		</p>
            
 	</div>
